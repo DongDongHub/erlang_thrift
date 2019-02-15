@@ -1,0 +1,7 @@
+{application,jsx,
+             [{description,"a streaming, evented json parsing toolkit"},
+              {vsn,"1.4.2"},
+              {modules,[]},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {env,[]}]}.

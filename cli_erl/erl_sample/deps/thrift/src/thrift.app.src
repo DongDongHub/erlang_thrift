@@ -1,0 +1,8 @@
+{application,thrift,
+             [{description,"Thrift bindings"},
+              {vsn,"0.9.0"},
+              {modules,[]},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {included_applications,[]},
+              {env,[{exceptions_include_traces,true}]}]}.
